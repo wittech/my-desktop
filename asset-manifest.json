@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/my-desktop/static/css/main.614dfb4d.chunk.css",
+    "main.js": "/my-desktop/static/js/main.275597b6.chunk.js",
+    "main.js.map": "/my-desktop/static/js/main.275597b6.chunk.js.map",
+    "runtime-main.js": "/my-desktop/static/js/runtime-main.ac3fd019.js",
+    "runtime-main.js.map": "/my-desktop/static/js/runtime-main.ac3fd019.js.map",
+    "static/js/2.99985698.chunk.js": "/my-desktop/static/js/2.99985698.chunk.js",
+    "static/js/2.99985698.chunk.js.map": "/my-desktop/static/js/2.99985698.chunk.js.map",
+    "index.html": "/my-desktop/index.html",
+    "precache-manifest.dd94f0757967e6b692ee3e3956c4b8c2.js": "/my-desktop/precache-manifest.dd94f0757967e6b692ee3e3956c4b8c2.js",
+    "service-worker.js": "/my-desktop/service-worker.js",
+    "static/css/main.614dfb4d.chunk.css.map": "/my-desktop/static/css/main.614dfb4d.chunk.css.map",
+    "static/js/2.99985698.chunk.js.LICENSE.txt": "/my-desktop/static/js/2.99985698.chunk.js.LICENSE.txt",
+    "static/media/Calculator.png": "/my-desktop/static/media/Calculator.5412703c.png",
+    "static/media/Chrome.png": "/my-desktop/static/media/Chrome.b234fa5e.png",
+    "static/media/Drawing.png": "/my-desktop/static/media/Drawing.0def2931.png",
+    "static/media/Finder.png": "/my-desktop/static/media/Finder.35af0dc5.png",
+    "static/media/Launchpad.png": "/my-desktop/static/media/Launchpad.b6471dc4.png",
+    "static/media/PrefApp.png": "/my-desktop/static/media/PrefApp.b6a1face.png",
+    "static/media/Terminal.png": "/my-desktop/static/media/Terminal.bc2c9be7.png",
+    "static/media/App.scss": "/my-desktop/static/media/sierra-4K.3890707c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac3fd019.js",
+    "static/js/2.99985698.chunk.js",
+    "static/css/main.614dfb4d.chunk.css",
+    "static/js/main.275597b6.chunk.js"
+  ]
+}
